@@ -75,7 +75,7 @@ img.avatar {
 .link-item {
   display: flex;
   flex: 1;
-  font-size: 2vw;
+  font-size: 1.5vw;
 }
 
 /***********************************
@@ -112,7 +112,7 @@ img.avatar {
 }
 
 .skills-container ul {
-  font-size: 2vw;
+  font-size: 1.5vw;
   margin-left: 2vw;
   list-style-type: disc;
 }
